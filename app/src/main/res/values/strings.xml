@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tod">TODO</string>
+    <string name="login">Masuk</string>
+    <string name="nama">Nama Skype, email atau telepon</string>
+    <string name="to">TODO</string>
+    <string name="klik">Buat Akun</string>
+    <string name="ketik">Masuk di sini</string>
+</resources>
